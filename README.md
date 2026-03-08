@@ -1,2 +1,2 @@
-# inahuel.cl
+# inahuel.com
 Web Trabajo
